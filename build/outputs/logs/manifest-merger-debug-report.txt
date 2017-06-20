@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:4:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:5:5-80
+MERGED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Doris Bednarska\.android\build-cache\9938f8bfb677b3d655ca20dd87f205003bbaa76e\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\5bb2e2d7885e9881bd9117287516038c91bcc7bc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:percent:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\e6975fec5ed0beef8d55e9ca949f372302be4120\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\d343f24d4fb5700db9bfc27606f27f4d970608f5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:13:5-44:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\ba3a334742127ba59676a45b2295072b4b64b4d9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\38c9c56eb52aba4a4d7d9fd33bbf5b2a4929f7a5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.github.dmytrodanylyk:android-morphing-button:98a4986e56] C:\Users\Doris Bednarska\.android\build-cache\9a7149b3181a87064712b7b9997fde93a679a43a\output\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\63a89da254b7bf29580ab0dd9048b43aa77b2f1c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\9b032a2e6a93029c114267b92f4ffed781bf4b58\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\6a9ddcc50eff62eb6334dbeef17337cf09b5d633\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\91406e6442b107fe0683380579275af82248ee03\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\3d27689218bedf308f04e5694cf7f7a7989c469d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\c4684682ff2669cb41470942cb06c7b6fb639235\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\8868c4977a112c4a5f51b09b7dd792651b352955\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\4e63ffd62c80233de3d7ae152863b9836609a17f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\aa25d67ae828c4ee90ee994a5485edb76c06e136\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:7:9-37
+activity#interval.com.intervalapp.activity.LoginActivity
+ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:14:9-19:20
+	android:name
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:14:19-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:17:27-74
+activity#interval.com.intervalapp.activity.DrawerActivity
+ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:20:9-22:47
+	android:theme
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:22:13-44
+	android:name
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:21:13-52
+activity#interval.com.intervalapp.activity.SongDragAndDropActivity
+ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:23:9-25:51
+	android:theme
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml:24:13-61
+uses-sdk
+INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.realm:realm-android-library:3.2.0] C:\Users\Doris Bednarska\.android\build-cache\44e158ebdbbb1145d40a3415d993dbfac82ddf1a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\Doris Bednarska\.android\build-cache\de491217d5d6ed1abc7beb8bbcd99a12d4df10eb\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Doris Bednarska\.android\build-cache\9938f8bfb677b3d655ca20dd87f205003bbaa76e\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Doris Bednarska\.android\build-cache\ed48ba1a41402d3609113361bb6737d4b092268f\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\5bb2e2d7885e9881bd9117287516038c91bcc7bc\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:percent:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\e6975fec5ed0beef8d55e9ca949f372302be4120\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\d343f24d4fb5700db9bfc27606f27f4d970608f5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.beardedhen:androidbootstrap:2.3.1] C:\Users\Doris Bednarska\.android\build-cache\75b3bba6e9acafc395124b21be4488560d859663\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.roughike:bottom-bar:2.3.1] C:\Users\Doris Bednarska\.android\build-cache\28ad0a2f26d32e57bcb39f1c7ef799329df07bc1\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\ba3a334742127ba59676a45b2295072b4b64b4d9\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\38c9c56eb52aba4a4d7d9fd33bbf5b2a4929f7a5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.simplecityapps:recyclerview-fastscroll:1.0.14] C:\Users\Doris Bednarska\.android\build-cache\167bfa2240236be910b4e02a0119f5b26586daa1\output\AndroidManifest.xml:7:5-44
+MERGED from [com.github.woxthebox:draglistview:1.4.4] C:\Users\Doris Bednarska\.android\build-cache\444d412d1376d464d7afb0d631c439d9174340bd\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\1a4e5edce5eb68fb8992edcfbf940669fe781e0e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.github.dmytrodanylyk:android-morphing-button:98a4986e56] C:\Users\Doris Bednarska\.android\build-cache\9a7149b3181a87064712b7b9997fde93a679a43a\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\63a89da254b7bf29580ab0dd9048b43aa77b2f1c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\9b032a2e6a93029c114267b92f4ffed781bf4b58\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\6a9ddcc50eff62eb6334dbeef17337cf09b5d633\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\91406e6442b107fe0683380579275af82248ee03\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\3d27689218bedf308f04e5694cf7f7a7989c469d\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\c4684682ff2669cb41470942cb06c7b6fb639235\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\8868c4977a112c4a5f51b09b7dd792651b352955\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\4e63ffd62c80233de3d7ae152863b9836609a17f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\aa25d67ae828c4ee90ee994a5485edb76c06e136\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\ba3a334742127ba59676a45b2295072b4b64b4d9\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Doris Bednarska\Desktop\Android\nomozetak\layoutSecondVersion\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\5bb2e2d7885e9881bd9117287516038c91bcc7bc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:percent:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\e6975fec5ed0beef8d55e9ca949f372302be4120\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:palette-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\d343f24d4fb5700db9bfc27606f27f4d970608f5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\ba3a334742127ba59676a45b2295072b4b64b4d9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\38c9c56eb52aba4a4d7d9fd33bbf5b2a4929f7a5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\1a4e5edce5eb68fb8992edcfbf940669fe781e0e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\63a89da254b7bf29580ab0dd9048b43aa77b2f1c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\9b032a2e6a93029c114267b92f4ffed781bf4b58\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\6a9ddcc50eff62eb6334dbeef17337cf09b5d633\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\91406e6442b107fe0683380579275af82248ee03\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\3d27689218bedf308f04e5694cf7f7a7989c469d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\c4684682ff2669cb41470942cb06c7b6fb639235\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\8868c4977a112c4a5f51b09b7dd792651b352955\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\4e63ffd62c80233de3d7ae152863b9836609a17f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\aa25d67ae828c4ee90ee994a5485edb76c06e136\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\5bb2e2d7885e9881bd9117287516038c91bcc7bc\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] C:\Users\Doris Bednarska\.android\build-cache\5bb2e2d7885e9881bd9117287516038c91bcc7bc\output\AndroidManifest.xml:23:9-47
+activity#com.aditya.filebrowser.FileBrowser
+ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:17:9-24:20
+	android:theme
+		ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:19:13-52
+	android:name
+		ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:18:13-62
+meta-data#android.app.searchable
+ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:20:13-23:25
+	android:resource
+		ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:22:17-51
+	android:name
+		ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:21:17-54
+activity#com.aditya.filebrowser.FileChooser
+ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:25:9-32:20
+	android:theme
+		ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:26:13-62
+activity#com.aditya.filebrowser.FileBrowserWithCustomHandler
+ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:33:9-40:20
+	android:theme
+		ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:35:13-52
+	android:name
+		ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:34:13-79
+activity#com.aditya.filebrowser.utils.Permissions
+ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:41:9-43:66
+	android:theme
+		ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:43:13-63
+	android:name
+		ADDED from [com.adityak:browsemyfiles:1.4] C:\Users\Doris Bednarska\.android\build-cache\b070b13180ffc6d10487410729ce2f2a016c1224\output\AndroidManifest.xml:42:13-68

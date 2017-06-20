@@ -1,0 +1,123 @@
+[
+    {
+        "outputFile": "C:\\Users\\Doris Bednarska\\Desktop\\Android\\nomozetak\\layoutSecondVersion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "C:\\Users\\Doris Bednarska\\.android\\build-cache\\28ad0a2f26d32e57bcb39f1c7ef799329df07bc1\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 69,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "C:\\Users\\Doris Bednarska\\.android\\build-cache\\63a89da254b7bf29580ab0dd9048b43aa77b2f1c\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 69,
+                        "endOffset": 120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 63,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "C:\\Users\\Doris Bednarska\\.android\\build-cache\\63a89da254b7bf29580ab0dd9048b43aa77b2f1c\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 63,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 250,
+                    "endColumn": 70,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "C:\\Users\\Doris Bednarska\\.android\\build-cache\\63a89da254b7bf29580ab0dd9048b43aa77b2f1c\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 70,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 67,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "C:\\Users\\Doris Bednarska\\.android\\build-cache\\63a89da254b7bf29580ab0dd9048b43aa77b2f1c\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 67,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "C:\\Users\\Doris Bednarska\\.android\\build-cache\\ba3a334742127ba59676a45b2295072b4b64b4d9\\output\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

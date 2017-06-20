@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Doris Bednarska\\Desktop\\Android\\nomozetak\\layoutSecondVersion\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Doris Bednarska\\.android\\build-cache\\c72ecc88410d420da903b1f1adc503888f6c5cb0\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
